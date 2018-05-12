@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16824#Les-poss-d-s
 gutenberg_bookshelf:
 - FR Littérature
 - Best Books Ever Listings
